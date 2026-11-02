@@ -1,4 +1,4 @@
-# my-site
+## my-site
 
 Git・Githubの練習で作った、自己紹介のサイトです。
 
